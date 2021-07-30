@@ -1,0 +1,60 @@
+{
+	"basics": {
+		"name": "ADITYA RAJ  SHARMA",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82512139?s=400&u=681da50602152958d43be4a57699c60aaadaae5a&v=4",
+		"email": "2020KUEC2010",
+		"phone": "9351488782",
+		"summary": "STUDENT AT IIIT KOTA",
+		"location": {
+			"address": "NYAY VATIKA, TONK ROAD, JAIPUR",
+			"postalCode": "302022",
+			"city": "JAIPUR",
+			"countryCode": "India",
+			"region": "RAJASTHAN"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "ADITYAG16364211",
+				"url": "https://www.twitter.com/ADITYAG16364211"
+			},
+			{
+				"network": "Github",
+				"username": "AdityaSharma52",
+				"url": "https://www.github.com/AdityaSharma52/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Aditya Gautam",
+				"url": "www.linkedin.com/in/aditya-gautam-237aa01bb"
+			},
+			{
+				"network": "Instagram",
+				"username": "Aditya.raj07",
+				"url": "https://instagram.com/Aditya.raj07"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "2024-07-12",
+		"gpa": "8.1",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Badminton"]
+	}],
+	
+}
